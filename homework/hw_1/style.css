@@ -1,0 +1,37 @@
+/*с позиционированием я запутался,поэтому выкладываю, как успел сделать:((*/
+h1{
+text-align:center;
+}
+h2{
+text-align:center;
+}
+body {
+background-image:url(images/bg.jpg);
+background-position:bottom right, center;
+background-size:1200px 700px,100% 100%;
+background-repeat:repeat,repeat;
+} 
+@font-face {
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic|PT+Serif:400,700' rel='stylesheet' type='text/css'>
+            }
+  
+.block 1 {
+float:left;
+width: 20%;
+	}
+.block 2 {
+float:right;
+width:20%;
+	}
+footer {
+	position:relative;
+
+
+}
+hr {
+    border: none; 
+    background-color: grey; 
+    height: 2px; 
+   }
