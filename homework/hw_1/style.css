@@ -1,0 +1,92 @@
+.logo{
+    float:left;
+    margin-top: -120px;
+    margin-left: 12px;
+    text-transform: uppercase;
+    font: 24px PT Sans bold,sans-serif;
+    width: 40%;
+}
+.enter{ 
+    position: relative;
+    float: right;
+  margin: -150px 0 0 0;
+    
+
+}
+h1 {
+margin-top: 80px;
+text-align:center;
+font: 72px PT Serif bold;
+margin: 150px -30px -20px 0
+}
+h2{
+position: relative;
+text-align:center;
+}
+ h2 ul li{
+    display: inline-block;
+}
+h2 li {
+font-family: "PT Sans", sans-serif;
+    font-size: 18px;
+    list-style: none;
+    margin: 0 0 50px 0;
+    padding: 0;
+}
+
+body {
+    background: url("images/background.gif") repeat scroll 0 0 transparent;
+} 
+@font-face {
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Serif', serif ;
+    }
+    .first, .second, .third{
+        width: 800px;
+    margin: auto;
+    margin-top: 55px;
+    padding: 0 0 0 40px;
+    }
+    .block3, .block5, .block7
+    {
+        position: absolute;
+    z-index: 1;
+    margin-left: -40px;
+    margin-top: -10px;
+    }
+    .block4, .block6, .block8{
+        position: relative;
+    display: inline-block;
+    float: left;
+    margin:0 22px 30px 0;
+   
+
+    }
+
+    .art{
+        margin:10px 0 0 200px;
+    width: 600px;
+    }
+
+
+
+
+   
+    p { font: 14px PT Sans,sans-serif;
+    }
+    a{ 
+        font: 18px PT Sans,sans-serif;
+        color:black;
+    }
+    
+    }
+footer {
+	position:relative;
+    bottom: auto;
+}
+hr {
+    border: none; 
+    background-color: grey; 
+    height: 2px; 
+   }
+   
